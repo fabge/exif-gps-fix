@@ -2,7 +2,7 @@
 
 Tools to copy GPS coordinates from smartphone photos to camera photos by matching timestamps.
 
-When you shoot with a dedicated camera (like a Fujifilm), your photos don't have GPS data. But your phone was probably in your pocket, taking photos with GPS. This tool matches timestamps between your camera and phone photos, then copies the GPS coordinates over.
+When you shoot with a dedicated camera, your photos might not have GPS data. But your phone was probably in your pocket, taking photos with GPS. This tool matches timestamps between your camera and phone photos, then copies the GPS coordinates over.
 
 ## Requirements
 
